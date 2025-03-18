@@ -1,0 +1,1095 @@
+Unnamed: 0,date,amount,boxes_shipped,clusters,cluster,Country
+0,20220104,5320,180,0,pink,United Kingdom
+1,20220801,7896,94,3,dark,India
+2,20220707,4501,91,0,pink,India
+3,20220427,12726,342,1,dark pink,Australia
+4,20220224,13685,184,1,dark pink,United Kingdom
+5,20220606,5376,38,0,pink,India
+6,20220125,13685,176,1,dark pink,United Kingdom
+7,20220324,3080,73,2,dark purple,Australia
+8,20220420,3990,59,0,pink,New Zealand
+9,20220704,2835,102,2,dark purple,Australia
+10,20220113,4704,62,0,pink,United Kingdom
+11,20220310,3703,11,0,pink,United States of America
+12,20220113,1442,286,2,dark purple,Canada
+13,20220728,168,156,2,dark purple,New Zealand
+14,20220803,8379,173,3,dark,New Zealand
+15,20220126,6790,356,0,pink,Australia
+16,20220214,4067,42,0,pink,Canada
+17,20220405,3017,140,2,dark purple,United States of America
+18,20220216,8799,250,3,dark,Canada
+19,20220608,1085,172,2,dark purple,United Kingdom
+20,20220627,6888,88,0,pink,Australia
+21,20220217,1267,157,2,dark purple,United States of America
+22,20220530,4753,163,0,pink,United States of America
+23,20220314,3003,113,2,dark purple,United Kingdom
+24,20220228,7672,115,3,dark,Australia
+25,20220126,168,321,2,dark purple,India
+26,20220209,1652,186,2,dark purple,Canada
+27,20220707,4025,112,0,pink,United States of America
+28,20220705,9492,151,3,dark,New Zealand
+29,20220615,5061,301,0,pink,New Zealand
+30,20220524,1722,121,2,dark purple,New Zealand
+31,20220629,12446,150,1,dark pink,United Kingdom
+32,20220511,4284,94,0,pink,Australia
+33,20220630,6839,133,0,pink,United Kingdom
+34,20220511,2163,70,2,dark purple,Canada
+35,20220722,9583,315,3,dark,United States of America
+36,20220824,2653,314,2,dark purple,United Kingdom
+37,20220707,147,72,2,dark purple,New Zealand
+38,20220519,3654,14,2,dark purple,Australia
+39,20220704,2443,466,2,dark purple,India
+40,20220602,938,16,2,dark purple,United States of America
+41,20220415,14749,354,1,dark pink,United States of America
+42,20220711,4781,241,0,pink,Canada
+43,20220223,6307,142,0,pink,India
+44,20220822,7602,102,3,dark,Canada
+45,20220216,6790,188,0,pink,United States of America
+46,20220113,9737,160,3,dark,United States of America
+47,20220214,6979,18,0,pink,Australia
+48,20220610,4382,303,0,pink,India
+49,20220707,5243,176,0,pink,India
+50,20220324,4865,70,0,pink,Canada
+51,20220606,8575,23,3,dark,Australia
+52,20220719,91,135,2,dark purple,Australia
+53,20220419,14798,83,1,dark pink,United States of America
+54,20220719,2205,179,2,dark purple,India
+55,20220715,441,24,2,dark purple,Canada
+56,20220214,3556,18,2,dark purple,New Zealand
+57,20220518,16482,416,1,dark pink,Canada
+58,20220630,15421,55,1,dark pink,Australia
+59,20220602,4438,227,0,pink,Australia
+60,20220628,1603,48,2,dark purple,Australia
+61,20220516,273,174,2,dark purple,Australia
+62,20220526,3073,302,2,dark purple,Canada
+63,20220706,6090,149,0,pink,India
+64,20220527,10255,11,3,dark,India
+65,20220414,2030,11,2,dark purple,Australia
+66,20220810,16482,14,1,dark pink,Australia
+67,20220704,9275,411,3,dark,India
+68,20220708,6181,56,0,pink,India
+69,20220722,9037,102,3,dark,United States of America
+70,20220302,12313,103,1,dark pink,United States of America
+71,20220110,5642,9,0,pink,United Kingdom
+72,20220311,2800,241,2,dark purple,New Zealand
+73,20220620,959,265,2,dark purple,New Zealand
+74,20220826,2002,214,2,dark purple,United Kingdom
+75,20220713,609,32,2,dark purple,Canada
+76,20220211,1274,244,2,dark purple,United States of America
+77,20220127,7595,181,3,dark,United States of America
+78,20220131,4725,137,0,pink,United Kingdom
+79,20220818,9681,24,3,dark,United States of America
+80,20220630,14504,21,1,dark pink,United States of America
+81,20220823,280,311,2,dark purple,Australia
+82,20220801,63,181,2,dark purple,New Zealand
+83,20220525,8001,10,3,dark,New Zealand
+84,20220110,4032,82,0,pink,Canada
+85,20220207,5859,108,0,pink,Australia
+86,20220512,11095,401,3,dark,United States of America
+87,20220307,7182,408,0,pink,Australia
+88,20220405,6881,420,0,pink,Australia
+89,20220103,7154,348,0,pink,Canada
+90,20220324,6188,270,0,pink,United Kingdom
+91,20220707,4221,9,0,pink,India
+92,20220726,630,264,2,dark purple,United States of America
+93,20220707,1743,111,2,dark purple,Australia
+94,20220715,2919,65,2,dark purple,Canada
+95,20220401,49,97,2,dark purple,New Zealand
+96,20220620,1827,6,2,dark purple,Australia
+97,20220629,13006,466,1,dark pink,United Kingdom
+98,20220615,1064,106,2,dark purple,United States of America
+99,20220408,11571,180,3,dark,United States of America
+100,20220314,5740,31,0,pink,Australia
+101,20220715,1456,359,2,dark purple,United States of America
+102,20220419,5334,80,0,pink,India
+103,20220328,4151,296,0,pink,United States of America
+104,20220304,8106,101,3,dark,Canada
+105,20220802,126,40,2,dark purple,New Zealand
+106,20220825,4697,42,0,pink,United Kingdom
+107,20220225,7798,167,3,dark,United States of America
+108,20220607,9408,138,3,dark,India
+109,20220412,1939,466,2,dark purple,India
+110,20220706,10906,94,3,dark,India
+111,20220119,5929,175,0,pink,United Kingdom
+112,20220105,5579,92,0,pink,Australia
+113,20220124,10927,141,3,dark,Canada
+114,20220406,623,283,2,dark purple,Australia
+115,20220615,6013,21,0,pink,Australia
+116,20220128,1505,47,2,dark purple,Canada
+117,20220316,476,125,2,dark purple,India
+118,20220221,11550,396,3,dark,Australia
+119,20220216,16482,87,1,dark pink,United States of America
+120,20220113,1848,27,2,dark purple,Canada
+121,20220323,7273,466,0,pink,Australia
+122,20220616,854,118,2,dark purple,Canada
+123,20220414,6832,46,0,pink,India
+124,20220125,4606,57,0,pink,United Kingdom
+125,20220311,4466,22,0,pink,India
+126,20220728,16114,96,1,dark pink,United Kingdom
+127,20220309,1561,44,2,dark purple,New Zealand
+128,20220628,8897,188,3,dark,Australia
+129,20220728,2464,387,2,dark purple,Australia
+130,20220815,4830,50,0,pink,Canada
+131,20220112,2765,264,2,dark purple,Australia
+132,20220324,7126,7,0,pink,New Zealand
+133,20220725,4263,90,0,pink,United Kingdom
+134,20220801,3605,403,2,dark purple,Canada
+135,20220516,16482,174,1,dark pink,India
+136,20220810,5103,140,0,pink,India
+137,20220105,2541,27,2,dark purple,India
+138,20220711,5663,110,0,pink,United Kingdom
+139,20220425,392,30,2,dark purple,United States of America
+140,20220404,10976,121,3,dark,New Zealand
+141,20220412,9282,101,3,dark,United States of America
+142,20220802,1827,117,2,dark purple,New Zealand
+143,20220628,8267,272,3,dark,New Zealand
+144,20220705,4116,128,0,pink,Australia
+145,20220607,2093,45,2,dark purple,New Zealand
+146,20220118,1015,27,2,dark purple,New Zealand
+147,20220104,12516,212,1,dark pink,Australia
+148,20220131,2758,18,2,dark purple,Australia
+149,20220314,3297,149,2,dark purple,India
+150,20220429,6048,466,0,pink,Australia
+151,20220207,10101,108,3,dark,India
+152,20220331,2282,178,2,dark purple,United Kingdom
+153,20220316,4361,81,0,pink,India
+154,20220125,7798,196,3,dark,United Kingdom
+155,20220620,3052,447,2,dark purple,India
+156,20220329,8029,175,3,dark,United Kingdom
+157,20220712,854,136,2,dark purple,Australia
+158,20220711,5460,138,0,pink,Canada
+159,20220119,3017,184,2,dark purple,Canada
+160,20220405,8911,82,3,dark,United States of America
+161,20220221,7203,12,0,pink,Canada
+162,20220520,13083,14,1,dark pink,New Zealand
+163,20220729,2779,104,2,dark purple,Australia
+164,20220128,9058,46,3,dark,United States of America
+165,20220719,3549,112,2,dark purple,United Kingdom
+166,20220413,9436,11,3,dark,New Zealand
+167,20220211,10283,21,3,dark,India
+168,20220302,5446,116,0,pink,New Zealand
+169,20220302,1043,202,2,dark purple,Australia
+170,20220728,12586,6,1,dark pink,United States of America
+171,20220107,1687,466,2,dark purple,India
+172,20220412,5299,167,0,pink,United Kingdom
+173,20220627,3213,72,2,dark purple,Canada
+174,20220114,5194,418,0,pink,Australia
+175,20220207,4753,389,0,pink,United Kingdom
+176,20220323,13706,26,1,dark pink,Australia
+177,20220110,6489,146,0,pink,India
+178,20220317,9324,41,3,dark,United Kingdom
+179,20220121,10829,54,3,dark,United States of America
+180,20220704,8113,370,3,dark,Australia
+181,20220704,3269,176,2,dark purple,Canada
+182,20220810,273,210,2,dark purple,United States of America
+183,20220401,7287,12,3,dark,Australia
+184,20220222,2583,159,2,dark purple,India
+185,20220103,9982,187,3,dark,United Kingdom
+186,20220531,4795,233,0,pink,India
+187,20220103,9310,282,3,dark,United Kingdom
+188,20220127,497,466,2,dark purple,New Zealand
+189,20220128,581,65,2,dark purple,United Kingdom
+190,20220628,3472,311,2,dark purple,Australia
+191,20220302,4333,43,0,pink,United Kingdom
+192,20220527,3325,26,2,dark purple,Australia
+193,20220630,11718,84,1,dark pink,United States of America
+194,20220607,2100,78,2,dark purple,Canada
+195,20220512,4018,100,0,pink,United States of America
+196,20220729,6468,66,0,pink,New Zealand
+197,20220803,7238,265,0,pink,United Kingdom
+198,20220818,6454,141,0,pink,India
+199,20220614,3115,42,2,dark purple,New Zealand
+200,20220630,6475,76,0,pink,United Kingdom
+201,20220613,1162,190,2,dark purple,New Zealand
+202,20220427,14238,54,1,dark pink,United Kingdom
+203,20220727,3472,32,2,dark purple,Australia
+204,20220420,1428,424,2,dark purple,Canada
+205,20220104,8064,134,3,dark,India
+206,20220221,9660,92,3,dark,Australia
+207,20220105,7357,48,3,dark,Australia
+208,20220715,6055,46,0,pink,India
+209,20220525,5124,62,0,pink,Australia
+210,20220420,3479,358,2,dark purple,Canada
+211,20220602,784,249,2,dark purple,United States of America
+212,20220513,16482,88,1,dark pink,United Kingdom
+213,20220803,1372,144,2,dark purple,New Zealand
+214,20220525,735,390,2,dark purple,Australia
+215,20220316,6538,79,0,pink,United Kingdom
+216,20220704,3199,122,2,dark purple,Australia
+217,20220705,3472,135,2,dark purple,India
+218,20220315,4571,430,0,pink,United States of America
+219,20220822,5481,69,0,pink,United Kingdom
+220,20220112,3136,125,2,dark purple,Australia
+221,20220610,252,154,2,dark purple,United Kingdom
+222,20220325,5460,286,0,pink,Australia
+223,20220727,3395,99,2,dark purple,India
+224,20220415,14938,433,1,dark pink,United Kingdom
+225,20220627,4053,19,0,pink,India
+226,20220414,5565,258,0,pink,United Kingdom
+227,20220315,7161,92,0,pink,Australia
+228,20220318,8883,200,3,dark,United States of America
+229,20220429,1351,61,2,dark purple,India
+230,20220225,3171,246,2,dark purple,New Zealand
+231,20220302,854,56,2,dark purple,United States of America
+232,20220620,7910,87,3,dark,Australia
+233,20220715,9275,173,3,dark,Canada
+234,20220512,3108,252,2,dark purple,Australia
+235,20220701,5075,256,0,pink,New Zealand
+236,20220808,378,54,2,dark purple,United States of America
+237,20220725,7350,6,3,dark,Australia
+238,20220518,3388,55,2,dark purple,United Kingdom
+239,20220715,11837,277,1,dark pink,India
+240,20220705,2282,44,2,dark purple,India
+241,20220704,5425,96,0,pink,United States of America
+242,20220620,1267,216,2,dark purple,United Kingdom
+243,20220125,3752,424,0,pink,Australia
+244,20220701,7728,37,3,dark,New Zealand
+245,20220413,2296,59,2,dark purple,United States of America
+246,20220504,4403,76,0,pink,United Kingdom
+247,20220804,3192,109,2,dark purple,Australia
+248,20220601,448,146,2,dark purple,India
+249,20220422,4270,185,0,pink,United Kingdom
+250,20220803,70,27,2,dark purple,United States of America
+251,20220610,1743,69,2,dark purple,United States of America
+252,20220627,6762,46,0,pink,United Kingdom
+253,20220103,3745,170,0,pink,Australia
+254,20220711,2639,179,2,dark purple,India
+255,20220817,4389,126,0,pink,New Zealand
+256,20220118,2604,65,2,dark purple,United States of America
+257,20220308,16482,99,1,dark pink,India
+258,20220307,14658,275,1,dark pink,Australia
+259,20220509,6454,157,0,pink,India
+260,20220523,2100,157,2,dark purple,New Zealand
+261,20220415,161,145,2,dark purple,United Kingdom
+262,20220727,2807,139,2,dark purple,Australia
+263,20220822,2639,406,2,dark purple,Canada
+264,20220511,4571,122,0,pink,United States of America
+265,20220126,4781,38,0,pink,India
+266,20220414,13034,117,1,dark pink,United States of America
+267,20220405,6454,417,0,pink,New Zealand
+268,20220614,8484,57,3,dark,New Zealand
+269,20220413,4781,125,0,pink,Canada
+270,20220627,2240,166,2,dark purple,Australia
+271,20220126,6979,3,0,pink,Australia
+272,20220705,1652,72,2,dark purple,United Kingdom
+273,20220111,13447,95,1,dark pink,Canada
+274,20220307,9422,22,3,dark,United States of America
+275,20220304,8687,100,3,dark,Canada
+276,20220715,2415,312,2,dark purple,Canada
+277,20220511,6272,86,0,pink,United Kingdom
+278,20220127,4389,7,0,pink,United States of America
+279,20220627,3122,149,2,dark purple,India
+280,20220803,8043,18,3,dark,India
+281,20220819,11662,242,1,dark pink,New Zealand
+282,20220615,392,102,2,dark purple,Australia
+283,20220207,8925,158,3,dark,United Kingdom
+284,20220708,7294,128,3,dark,Australia
+285,20220421,1526,96,2,dark purple,India
+286,20220408,2688,209,2,dark purple,United Kingdom
+287,20220819,14889,52,1,dark pink,Australia
+288,20220504,2912,55,2,dark purple,India
+289,20220511,2632,108,2,dark purple,United States of America
+290,20220322,6328,51,0,pink,United States of America
+291,20220810,2527,216,2,dark purple,Canada
+292,20220504,1414,318,2,dark purple,United States of America
+293,20220818,7714,238,3,dark,United States of America
+294,20220803,4347,238,0,pink,Canada
+295,20220114,7490,315,3,dark,New Zealand
+296,20220408,2058,72,2,dark purple,Australia
+297,20220801,3640,3,2,dark purple,United Kingdom
+298,20220315,455,45,2,dark purple,Canada
+299,20220715,10990,184,3,dark,India
+300,20220113,5558,127,0,pink,New Zealand
+301,20220826,2541,53,2,dark purple,Australia
+302,20220110,1876,172,2,dark purple,Canada
+303,20220511,5523,87,0,pink,Australia
+304,20220830,11200,22,3,dark,New Zealand
+305,20220721,5593,122,0,pink,United States of America
+306,20220801,7882,125,3,dark,Australia
+307,20220217,10241,259,3,dark,Canada
+308,20220727,6832,156,0,pink,Australia
+309,20220223,1379,107,2,dark purple,United States of America
+310,20220322,3010,40,2,dark purple,Australia
+311,20220623,6888,311,0,pink,India
+312,20220201,1540,73,2,dark purple,United Kingdom
+313,20220302,6916,288,0,pink,Australia
+314,20220406,1232,86,2,dark purple,United Kingdom
+315,20220317,602,72,2,dark purple,Australia
+316,20220624,10927,136,3,dark,United Kingdom
+317,20220719,10185,303,3,dark,Canada
+318,20220711,1603,264,2,dark purple,United States of America
+319,20220113,2170,218,2,dark purple,India
+320,20220707,8673,60,3,dark,New Zealand
+321,20220525,4760,418,0,pink,India
+322,20220413,4753,151,0,pink,India
+323,20220302,3374,202,2,dark purple,New Zealand
+324,20220623,2058,126,2,dark purple,Canada
+325,20220726,6454,160,0,pink,United States of America
+326,20220322,420,3,2,dark purple,Canada
+327,20220609,2863,58,2,dark purple,United States of America
+328,20220517,5936,59,0,pink,Australia
+329,20220304,889,273,2,dark purple,New Zealand
+330,20220707,16016,28,1,dark pink,Canada
+331,20220113,10479,118,3,dark,Canada
+332,20220713,2912,75,2,dark purple,Australia
+333,20220616,1575,329,2,dark purple,Australia
+334,20220718,8197,69,3,dark,United Kingdom
+335,20220530,4221,395,0,pink,United Kingdom
+336,20220621,840,81,2,dark purple,United Kingdom
+337,20220624,5691,38,0,pink,Australia
+338,20220113,3472,96,2,dark purple,India
+339,20220404,4193,195,0,pink,Canada
+340,20220608,9016,466,3,dark,United Kingdom
+341,20220802,6328,47,0,pink,Canada
+342,20220721,9870,152,3,dark,United States of America
+343,20220620,161,134,2,dark purple,India
+344,20220622,2576,112,2,dark purple,India
+345,20220502,3178,16,2,dark purple,Australia
+346,20220107,4676,84,0,pink,Australia
+347,20220221,5502,99,0,pink,United Kingdom
+348,20220321,7462,371,3,dark,Canada
+349,20220404,5803,136,0,pink,United Kingdom
+350,20220324,13888,203,1,dark pink,Canada
+351,20220628,6867,183,0,pink,New Zealand
+352,20220114,2317,195,2,dark purple,Australia
+353,20220207,1218,135,2,dark purple,New Zealand
+354,20220111,4109,197,0,pink,New Zealand
+355,20220225,1953,242,2,dark purple,India
+356,20220801,6790,25,0,pink,Australia
+357,20220505,6797,252,0,pink,Australia
+358,20220518,9226,415,3,dark,New Zealand
+359,20220104,5733,348,0,pink,New Zealand
+360,20220509,4312,211,0,pink,New Zealand
+361,20220506,1638,81,2,dark purple,India
+362,20220113,10815,145,3,dark,United Kingdom
+363,20220624,4466,74,0,pink,Australia
+364,20220214,987,21,2,dark purple,United States of America
+365,20220118,4669,101,0,pink,Australia
+366,20220502,2905,91,2,dark purple,India
+367,20220516,7490,54,3,dark,Australia
+368,20220128,6986,368,0,pink,United States of America
+369,20220624,1288,409,2,dark purple,Canada
+370,20220718,2345,104,2,dark purple,United Kingdom
+371,20220413,3619,164,2,dark purple,United Kingdom
+372,20220415,16482,76,1,dark pink,United States of America
+373,20220104,8092,178,3,dark,India
+374,20220704,6993,31,0,pink,Australia
+375,20220324,2317,352,2,dark purple,United States of America
+376,20220317,637,169,2,dark purple,Australia
+377,20220215,6034,223,0,pink,Australia
+378,20220629,980,146,2,dark purple,United States of America
+379,20220524,2821,112,2,dark purple,United States of America
+380,20220110,3563,284,2,dark purple,United Kingdom
+381,20220315,2996,139,2,dark purple,United States of America
+382,20220208,2436,309,2,dark purple,Canada
+383,20220225,1540,100,2,dark purple,India
+384,20220503,6916,42,0,pink,United States of America
+385,20220614,5509,24,0,pink,United States of America
+386,20220809,12992,83,1,dark pink,India
+387,20220711,3724,234,0,pink,New Zealand
+388,20220114,7133,118,0,pink,United Kingdom
+389,20220224,8617,46,3,dark,Canada
+390,20220315,9198,144,3,dark,New Zealand
+391,20220425,11823,47,1,dark pink,New Zealand
+392,20220510,5775,41,0,pink,Australia
+393,20220623,13125,275,1,dark pink,Australia
+394,20220228,14287,370,1,dark pink,Canada
+395,20220525,16233,138,1,dark pink,United States of America
+396,20220222,5313,215,0,pink,New Zealand
+397,20220711,3577,134,2,dark purple,United Kingdom
+398,20220103,3528,336,2,dark purple,Canada
+399,20220824,679,280,2,dark purple,New Zealand
+400,20220728,2450,352,2,dark purple,United States of America
+401,20220525,10577,150,3,dark,United States of America
+402,20220506,2597,177,2,dark purple,New Zealand
+403,20220128,2219,142,2,dark purple,India
+404,20220606,11319,12,3,dark,United Kingdom
+405,20220712,5978,24,0,pink,New Zealand
+406,20220805,5327,183,0,pink,Canada
+407,20220128,6020,147,0,pink,United States of America
+408,20220831,5614,137,0,pink,India
+409,20220419,1736,13,2,dark purple,United States of America
+410,20220629,6384,2,0,pink,United Kingdom
+411,20220224,3577,261,2,dark purple,India
+412,20220304,14539,84,1,dark pink,United Kingdom
+413,20220621,3493,68,2,dark purple,India
+414,20220126,994,105,2,dark purple,Australia
+415,20220610,4361,40,0,pink,New Zealand
+416,20220523,1554,65,2,dark purple,United Kingdom
+417,20220415,966,107,2,dark purple,India
+418,20220131,5334,227,0,pink,New Zealand
+419,20220304,4935,39,0,pink,New Zealand
+420,20220419,10024,84,3,dark,New Zealand
+421,20220516,2506,100,2,dark purple,United Kingdom
+422,20220217,1043,120,2,dark purple,Australia
+423,20220118,6524,257,0,pink,United States of America
+424,20220209,8148,85,3,dark,Canada
+425,20220323,3577,178,2,dark purple,Canada
+426,20220201,3374,151,2,dark purple,New Zealand
+427,20220307,3948,142,0,pink,India
+428,20220103,3269,226,2,dark purple,United Kingdom
+429,20220211,5271,341,0,pink,United States of America
+430,20220316,4571,140,0,pink,New Zealand
+431,20220815,12327,330,1,dark pink,India
+432,20220512,4935,73,0,pink,India
+433,20220411,6167,4,0,pink,India
+434,20220630,16482,285,1,dark pink,New Zealand
+435,20220615,7014,60,0,pink,New Zealand
+436,20220801,7119,101,0,pink,Canada
+437,20220615,15491,58,1,dark pink,United States of America
+438,20220616,5747,45,0,pink,India
+439,20220513,4550,281,0,pink,New Zealand
+440,20220510,2191,138,2,dark purple,United States of America
+441,20220825,5663,322,0,pink,India
+442,20220715,7623,85,3,dark,New Zealand
+443,20220516,9023,409,3,dark,United Kingdom
+444,20220614,3402,182,2,dark purple,Australia
+445,20220125,10507,466,3,dark,Australia
+446,20220728,7721,14,3,dark,United States of America
+447,20220128,5033,178,0,pink,Canada
+448,20220629,1960,191,2,dark purple,United Kingdom
+449,20220624,238,317,2,dark purple,Australia
+450,20220701,7756,410,3,dark,Canada
+451,20220225,1736,137,2,dark purple,United States of America
+452,20220801,2660,12,2,dark purple,Canada
+453,20220621,7672,254,3,dark,Australia
+454,20220125,11564,24,3,dark,New Zealand
+455,20220517,1365,232,2,dark purple,United Kingdom
+456,20220823,4186,233,0,pink,Australia
+457,20220303,7406,118,3,dark,Australia
+458,20220530,8911,466,3,dark,India
+459,20220629,112,223,2,dark purple,United States of America
+460,20220104,8204,204,3,dark,Canada
+461,20220114,2611,65,2,dark purple,Australia
+462,20220215,15652,53,1,dark pink,United States of America
+463,20220110,4074,466,0,pink,New Zealand
+464,20220504,12250,213,1,dark pink,United States of America
+465,20220523,2366,5,2,dark purple,United States of America
+466,20220426,1687,147,2,dark purple,New Zealand
+467,20220705,1232,74,2,dark purple,Canada
+468,20220721,6965,163,0,pink,United Kingdom
+469,20220221,5292,248,0,pink,United States of America
+470,20220203,1379,138,2,dark purple,United States of America
+471,20220708,8001,151,3,dark,Australia
+472,20220531,588,139,2,dark purple,India
+473,20220627,4046,103,0,pink,New Zealand
+474,20220513,5103,129,0,pink,India
+475,20220531,2317,102,2,dark purple,United States of America
+476,20220228,7042,37,0,pink,United States of America
+477,20220328,6713,31,0,pink,New Zealand
+478,20220114,1848,227,2,dark purple,United States of America
+479,20220221,6440,145,0,pink,New Zealand
+480,20220801,10885,90,3,dark,Canada
+481,20220519,2387,59,2,dark purple,New Zealand
+482,20220713,2030,60,2,dark purple,United States of America
+483,20220420,6678,148,0,pink,Australia
+484,20220630,4515,22,0,pink,India
+485,20220308,3374,142,2,dark purple,United Kingdom
+486,20220309,5852,93,0,pink,United States of America
+487,20220616,1750,208,2,dark purple,Canada
+488,20220630,5782,42,0,pink,United Kingdom
+489,20220728,2870,120,2,dark purple,India
+490,20220812,3094,159,2,dark purple,Canada
+491,20220707,3724,316,0,pink,United Kingdom
+492,20220825,12761,47,1,dark pink,United States of America
+493,20220117,3696,233,0,pink,Canada
+494,20220304,5222,384,0,pink,Australia
+495,20220825,8939,4,3,dark,New Zealand
+496,20220415,2156,260,2,dark purple,United Kingdom
+497,20220311,2380,22,2,dark purple,United States of America
+498,20220520,3339,18,2,dark purple,United States of America
+499,20220614,14980,42,1,dark pink,New Zealand
+500,20220414,1512,73,2,dark purple,New Zealand
+501,20220707,6657,154,0,pink,United States of America
+502,20220824,3836,71,0,pink,India
+503,20220224,8771,127,3,dark,India
+504,20220509,651,224,2,dark purple,Canada
+505,20220208,6706,223,0,pink,Australia
+506,20220324,1421,284,2,dark purple,United Kingdom
+507,20220620,8526,73,3,dark,United States of America
+508,20220307,1435,112,2,dark purple,Canada
+509,20220620,7434,85,3,dark,Australia
+510,20220217,15316,270,1,dark pink,New Zealand
+511,20220126,10479,45,3,dark,United Kingdom
+512,20220502,2751,153,2,dark purple,Australia
+513,20220707,12586,7,1,dark pink,Canada
+514,20220822,2786,51,2,dark purple,Australia
+515,20220811,2303,67,2,dark purple,Australia
+516,20220113,8113,194,3,dark,United Kingdom
+517,20220302,12271,116,1,dark pink,Australia
+518,20220727,11298,41,3,dark,Australia
+519,20220310,15855,111,1,dark pink,New Zealand
+520,20220823,12404,334,1,dark pink,United States of America
+521,20220425,3990,155,0,pink,United States of America
+522,20220307,10808,407,3,dark,United Kingdom
+523,20220712,4858,52,0,pink,United Kingdom
+524,20220516,7742,138,3,dark,United States of America
+525,20220302,3752,70,0,pink,India
+526,20220530,1218,149,2,dark purple,New Zealand
+527,20220610,10983,179,3,dark,United Kingdom
+528,20220725,6769,353,0,pink,United States of America
+529,20220609,4361,97,0,pink,New Zealand
+530,20220512,777,60,2,dark purple,United States of America
+531,20220509,3843,5,0,pink,United States of America
+532,20220809,6930,182,0,pink,Canada
+533,20220413,5733,114,0,pink,India
+534,20220502,8393,46,3,dark,United States of America
+535,20220809,3822,320,0,pink,United States of America
+536,20220823,6342,178,0,pink,Australia
+537,20220513,6510,170,0,pink,India
+538,20220201,10171,67,3,dark,United States of America
+539,20220623,5908,301,0,pink,United States of America
+540,20220524,10164,134,3,dark,United Kingdom
+541,20220401,1064,211,2,dark purple,Canada
+542,20220727,9716,151,3,dark,Canada
+543,20220127,16482,208,1,dark pink,India
+544,20220812,2541,134,2,dark purple,India
+545,20220201,9989,49,3,dark,Canada
+546,20220302,4739,204,0,pink,India
+547,20220630,3185,34,2,dark purple,Australia
+548,20220117,8225,91,3,dark,Australia
+549,20220707,14301,130,1,dark pink,United States of America
+550,20220131,1316,107,2,dark purple,New Zealand
+551,20220810,3486,121,2,dark purple,United Kingdom
+552,20220818,13930,339,1,dark pink,United States of America
+553,20220615,5509,321,0,pink,New Zealand
+554,20220126,8470,9,3,dark,United States of America
+555,20220429,77,69,2,dark purple,United States of America
+556,20220303,3381,72,2,dark purple,Canada
+557,20220222,4102,392,0,pink,Australia
+558,20220304,3577,158,2,dark purple,United States of America
+559,20220707,2975,9,2,dark purple,India
+560,20220617,4137,347,0,pink,New Zealand
+561,20220802,9541,114,3,dark,Canada
+562,20220812,8001,120,3,dark,United States of America
+563,20220128,5152,333,0,pink,New Zealand
+564,20220429,11116,432,3,dark,Australia
+565,20220405,13076,236,1,dark pink,Australia
+566,20220118,10213,135,3,dark,Canada
+567,20220516,2485,97,2,dark purple,United Kingdom
+568,20220824,8715,168,3,dark,Australia
+569,20220118,273,402,2,dark purple,India
+570,20220822,7623,10,3,dark,United States of America
+571,20220307,7,84,2,dark purple,United Kingdom
+572,20220304,3010,69,2,dark purple,United Kingdom
+573,20220422,11550,111,3,dark,Canada
+574,20220609,4046,89,0,pink,Australia
+575,20220725,8904,199,3,dark,Canada
+576,20220803,11298,89,3,dark,India
+577,20220803,4396,131,0,pink,Australia
+578,20220503,12068,227,1,dark pink,United Kingdom
+579,20220119,9772,301,3,dark,Canada
+580,20220211,10458,316,3,dark,United States of America
+581,20220614,6426,390,0,pink,India
+582,20220323,6188,223,0,pink,United States of America
+583,20220217,7504,101,3,dark,Canada
+584,20220317,1750,466,2,dark purple,Canada
+585,20220629,5439,287,0,pink,Australia
+586,20220824,15547,269,1,dark pink,Canada
+587,20220704,11956,277,1,dark pink,Canada
+588,20220328,2723,67,2,dark purple,New Zealand
+589,20220419,16482,135,1,dark pink,India
+590,20220118,9058,229,3,dark,New Zealand
+591,20220117,2996,88,2,dark purple,New Zealand
+592,20220215,8848,211,3,dark,New Zealand
+593,20220211,14336,293,1,dark pink,United Kingdom
+594,20220321,16401,179,1,dark pink,United States of America
+595,20220105,5173,129,0,pink,New Zealand
+596,20220530,6328,164,0,pink,India
+597,20220104,2534,219,2,dark purple,United States of America
+598,20220422,1435,258,2,dark purple,Australia
+599,20220210,3052,116,2,dark purple,Canada
+600,20220812,910,204,2,dark purple,India
+601,20220810,2331,321,2,dark purple,United States of America
+602,20220607,679,56,2,dark purple,Australia
+603,20220606,2086,74,2,dark purple,India
+604,20220405,5012,189,0,pink,New Zealand
+605,20220418,4501,131,0,pink,United States of America
+606,20220131,13482,15,1,dark pink,India
+607,20220822,5621,140,0,pink,United States of America
+608,20220225,10486,198,3,dark,Australia
+609,20220222,16482,103,1,dark pink,Australia
+610,20220112,4494,187,0,pink,New Zealand
+611,20220525,105,125,2,dark purple,United Kingdom
+612,20220201,2464,8,2,dark purple,India
+613,20220427,1379,70,2,dark purple,United Kingdom
+614,20220722,2583,126,2,dark purple,United States of America
+615,20220126,3220,265,2,dark purple,New Zealand
+616,20220824,4802,296,0,pink,United States of America
+617,20220118,5677,21,0,pink,New Zealand
+618,20220330,945,83,2,dark purple,India
+619,20220117,8757,162,3,dark,Australia
+620,20220217,4816,145,0,pink,United States of America
+621,20220408,7532,44,3,dark,Canada
+622,20220706,3549,82,2,dark purple,Canada
+623,20220404,4340,226,0,pink,India
+624,20220302,1799,207,2,dark purple,New Zealand
+625,20220809,1127,176,2,dark purple,New Zealand
+626,20220609,10038,286,3,dark,Australia
+627,20220602,2926,300,2,dark purple,United Kingdom
+628,20220705,6279,235,0,pink,United States of America
+629,20220811,308,125,2,dark purple,Canada
+630,20220211,3500,145,2,dark purple,India
+631,20220811,658,65,2,dark purple,New Zealand
+632,20220512,12565,102,1,dark pink,Australia
+633,20220715,5012,93,0,pink,United States of America
+634,20220118,3955,134,0,pink,India
+635,20220105,8512,189,3,dark,United Kingdom
+636,20220629,504,232,2,dark purple,Australia
+637,20220614,2800,45,2,dark purple,Canada
+638,20220808,4256,67,0,pink,India
+639,20220323,13573,138,1,dark pink,India
+640,20220104,6566,99,0,pink,India
+641,20220222,13503,251,1,dark pink,India
+642,20220217,8680,252,3,dark,United Kingdom
+643,20220203,385,78,2,dark purple,United States of America
+644,20220317,1267,130,2,dark purple,Canada
+645,20220125,2961,154,2,dark purple,Australia
+646,20220727,1981,52,2,dark purple,Australia
+647,20220128,7959,53,3,dark,Australia
+648,20220705,10794,50,3,dark,Australia
+649,20220315,1897,44,2,dark purple,India
+650,20220804,2744,200,2,dark purple,Canada
+651,20220627,4382,361,0,pink,United States of America
+652,20220713,4515,172,0,pink,Canada
+653,20220224,5474,239,0,pink,New Zealand
+654,20220628,6069,55,0,pink,New Zealand
+655,20220630,6944,27,0,pink,Australia
+656,20220818,5859,7,0,pink,Canada
+657,20220124,12173,301,1,dark pink,India
+658,20220311,5292,134,0,pink,United States of America
+659,20220623,5705,350,0,pink,New Zealand
+660,20220822,2492,33,2,dark purple,India
+661,20220104,3024,23,2,dark purple,Canada
+662,20220405,3437,201,2,dark purple,India
+663,20220415,1869,323,2,dark purple,India
+664,20220511,3171,220,2,dark purple,Australia
+665,20220721,4858,466,0,pink,Canada
+666,20220211,1225,84,2,dark purple,New Zealand
+667,20220708,1155,79,2,dark purple,Canada
+668,20220811,6811,344,0,pink,United Kingdom
+669,20220804,6433,7,0,pink,New Zealand
+670,20220614,8169,88,3,dark,New Zealand
+671,20220117,2275,275,2,dark purple,United Kingdom
+672,20220623,3857,466,0,pink,Canada
+673,20220824,1463,113,2,dark purple,United Kingdom
+674,20220607,7924,275,3,dark,United Kingdom
+675,20220622,8799,47,3,dark,United Kingdom
+676,20220713,2898,276,2,dark purple,United States of America
+677,20220524,9506,212,3,dark,United Kingdom
+678,20220809,7175,145,0,pink,New Zealand
+679,20220406,1729,31,2,dark purple,Canada
+680,20220728,1589,271,2,dark purple,New Zealand
+681,20220824,630,52,2,dark purple,New Zealand
+682,20220117,112,128,2,dark purple,Australia
+683,20220207,5187,142,0,pink,United States of America
+684,20220509,6223,256,0,pink,Australia
+685,20220606,7714,106,3,dark,New Zealand
+686,20220606,9457,6,3,dark,United States of America
+687,20220524,6678,226,0,pink,New Zealand
+688,20220113,2107,121,2,dark purple,United Kingdom
+689,20220523,6069,151,0,pink,United States of America
+690,20220629,1862,284,2,dark purple,United Kingdom
+691,20220311,6972,89,0,pink,New Zealand
+692,20220425,10220,466,3,dark,United States of America
+693,20220530,3969,243,0,pink,Australia
+694,20220523,1547,170,2,dark purple,India
+695,20220523,1162,18,2,dark purple,United States of America
+696,20220624,6342,282,0,pink,Canada
+697,20220311,10633,277,3,dark,New Zealand
+698,20220727,15057,212,1,dark pink,United States of America
+699,20220816,4704,126,0,pink,United States of America
+700,20220307,9338,11,3,dark,Canada
+701,20220405,7959,30,3,dark,New Zealand
+702,20220504,9023,51,3,dark,India
+703,20220104,14525,92,1,dark pink,United States of America
+704,20220113,5810,101,0,pink,Australia
+705,20220711,6426,98,0,pink,New Zealand
+706,20220517,4403,159,0,pink,Australia
+707,20220721,1582,62,2,dark purple,New Zealand
+708,20220222,791,22,2,dark purple,Canada
+709,20220523,9100,187,3,dark,India
+710,20220712,9884,200,3,dark,Canada
+711,20220615,3780,201,0,pink,United Kingdom
+712,20220623,4557,308,0,pink,New Zealand
+713,20220325,5796,55,0,pink,Australia
+714,20220704,84,153,2,dark purple,India
+715,20220512,9037,101,3,dark,United Kingdom
+716,20220404,4746,137,0,pink,New Zealand
+717,20220415,6713,398,0,pink,Australia
+718,20220308,6237,88,0,pink,Canada
+719,20220117,7483,232,3,dark,India
+720,20220822,1309,51,2,dark purple,India
+721,20220725,1155,66,2,dark purple,United Kingdom
+722,20220614,2989,124,2,dark purple,United Kingdom
+723,20220405,9625,78,3,dark,India
+724,20220826,7357,341,3,dark,United Kingdom
+725,20220803,10031,114,3,dark,Australia
+726,20220711,6587,4,0,pink,Canada
+727,20220311,3311,22,2,dark purple,New Zealand
+728,20220110,15330,30,1,dark pink,United Kingdom
+729,20220404,14028,351,1,dark pink,United Kingdom
+730,20220117,6678,466,0,pink,Australia
+731,20220708,8624,50,3,dark,New Zealand
+732,20220412,1197,356,2,dark purple,United Kingdom
+733,20220824,483,185,2,dark purple,Canada
+734,20220607,1687,236,2,dark purple,United Kingdom
+735,20220728,1309,30,2,dark purple,Canada
+736,20220221,9534,111,3,dark,United States of America
+737,20220408,1694,289,2,dark purple,Canada
+738,20220628,70,103,2,dark purple,United Kingdom
+739,20220324,2443,20,2,dark purple,United Kingdom
+740,20220729,2933,55,2,dark purple,Australia
+741,20220525,2044,90,2,dark purple,United States of America
+742,20220330,6524,303,0,pink,Australia
+743,20220718,12656,126,1,dark pink,United States of America
+744,20220510,8722,109,3,dark,Canada
+745,20220318,15750,92,1,dark pink,Australia
+746,20220615,6839,56,0,pink,India
+747,20220512,13685,58,1,dark pink,Canada
+748,20220623,2912,110,2,dark purple,New Zealand
+749,20220421,3339,171,2,dark purple,India
+750,20220817,910,117,2,dark purple,Australia
+751,20220207,16482,51,1,dark pink,New Zealand
+752,20220317,8099,118,3,dark,Canada
+753,20220801,13727,79,1,dark pink,India
+754,20220318,8659,29,3,dark,Australia
+755,20220614,5782,103,0,pink,Canada
+756,20220422,8463,155,3,dark,United Kingdom
+757,20220118,4914,31,0,pink,New Zealand
+758,20220826,3087,128,2,dark purple,Australia
+759,20220610,9205,419,3,dark,New Zealand
+760,20220131,2303,7,2,dark purple,Canada
+761,20220408,1358,106,2,dark purple,New Zealand
+762,20220607,3605,68,2,dark purple,Australia
+763,20220210,8498,44,3,dark,Australia
+764,20220516,700,457,2,dark purple,Australia
+765,20220318,2191,466,2,dark purple,India
+766,20220713,644,137,2,dark purple,Australia
+767,20220725,4340,86,0,pink,United States of America
+768,20220819,2282,296,2,dark purple,Canada
+769,20220624,7714,466,3,dark,Canada
+770,20220620,826,149,2,dark purple,Canada
+771,20220802,203,207,2,dark purple,India
+772,20220222,13356,93,1,dark pink,New Zealand
+773,20220201,6510,23,0,pink,New Zealand
+774,20220214,5894,305,0,pink,Canada
+775,20220224,7910,125,3,dark,Australia
+776,20220318,784,129,2,dark purple,India
+777,20220830,1750,252,2,dark purple,United Kingdom
+778,20220509,280,75,2,dark purple,United States of America
+779,20220118,504,87,2,dark purple,United States of America
+780,20220704,7154,342,0,pink,India
+781,20220603,1617,13,2,dark purple,New Zealand
+782,20220223,10822,30,3,dark,New Zealand
+783,20220509,10724,203,3,dark,New Zealand
+784,20220606,3640,106,2,dark purple,India
+785,20220704,7532,234,3,dark,India
+786,20220606,1582,100,2,dark purple,New Zealand
+787,20220513,1456,91,2,dark purple,Australia
+788,20220131,2016,277,2,dark purple,New Zealand
+789,20220630,7588,42,3,dark,New Zealand
+790,20220825,3402,249,2,dark purple,Canada
+791,20220110,700,97,2,dark purple,New Zealand
+792,20220822,1904,8,2,dark purple,United States of America
+793,20220414,4844,275,0,pink,New Zealand
+794,20220531,9625,313,3,dark,United Kingdom
+795,20220408,4599,323,0,pink,United Kingdom
+796,20220221,3003,155,2,dark purple,United States of America
+797,20220330,9744,377,3,dark,Australia
+798,20220302,1400,2,2,dark purple,India
+799,20220728,364,170,2,dark purple,United States of America
+800,20220324,7231,38,0,pink,New Zealand
+801,20220811,63,105,2,dark purple,Australia
+802,20220517,8309,166,3,dark,United Kingdom
+803,20220518,3164,164,2,dark purple,Canada
+804,20220817,5691,171,0,pink,United Kingdom
+805,20220404,490,49,2,dark purple,New Zealand
+806,20220809,16482,205,1,dark pink,India
+807,20220117,637,313,2,dark purple,New Zealand
+808,20220214,4067,29,0,pink,Canada
+809,20220516,8204,307,3,dark,New Zealand
+810,20220316,9870,121,3,dark,Canada
+811,20220131,5131,285,0,pink,Canada
+812,20220310,1141,205,2,dark purple,Canada
+813,20220630,7980,157,3,dark,United Kingdom
+814,20220301,5229,182,0,pink,New Zealand
+815,20220527,3423,100,2,dark purple,United Kingdom
+816,20220711,6468,223,0,pink,United Kingdom
+817,20220302,4326,61,0,pink,New Zealand
+818,20220304,7154,133,0,pink,United States of America
+819,20220623,3997,228,0,pink,United Kingdom
+820,20220127,5180,233,0,pink,United States of America
+821,20220114,2723,425,2,dark purple,Canada
+822,20220729,952,24,2,dark purple,India
+823,20220513,5691,466,0,pink,Canada
+824,20220203,10969,170,3,dark,Canada
+825,20220527,5964,26,0,pink,India
+826,20220218,2821,24,2,dark purple,Australia
+827,20220128,1302,33,2,dark purple,India
+828,20220629,5474,109,0,pink,United Kingdom
+829,20220113,4179,276,0,pink,India
+830,20220627,1946,164,2,dark purple,United Kingdom
+831,20220329,4291,1,0,pink,Canada
+832,20220603,7196,160,0,pink,India
+833,20220321,1939,98,2,dark purple,Canada
+834,20220412,10437,46,3,dark,India
+835,20220119,6916,259,0,pink,Australia
+836,20220406,3647,310,2,dark purple,United Kingdom
+837,20220802,8995,78,3,dark,Australia
+838,20220412,7252,136,0,pink,Australia
+839,20220721,16380,130,1,dark pink,India
+840,20220322,9660,24,3,dark,New Zealand
+841,20220509,4522,5,0,pink,India
+842,20220809,329,109,2,dark purple,Australia
+843,20220720,3458,294,2,dark purple,Canada
+844,20220414,4641,413,0,pink,India
+845,20220125,4627,136,0,pink,Canada
+846,20220425,3192,175,2,dark purple,Australia
+847,20220117,252,237,2,dark purple,Canada
+848,20220815,868,125,2,dark purple,United States of America
+849,20220602,210,16,2,dark purple,Canada
+850,20220630,7007,135,0,pink,United States of America
+851,20220210,5845,91,0,pink,New Zealand
+852,20220223,1372,466,2,dark purple,Canada
+853,20220127,8428,216,3,dark,India
+854,20220526,4977,317,0,pink,United Kingdom
+855,20220414,1694,21,2,dark purple,United States of America
+856,20220801,4326,154,0,pink,Australia
+857,20220822,9527,222,3,dark,Australia
+858,20220722,10766,157,3,dark,India
+859,20220428,1288,27,2,dark purple,United States of America
+860,20220530,4879,350,0,pink,Australia
+861,20220721,2408,157,2,dark purple,United States of America
+862,20220802,3094,466,2,dark purple,United Kingdom
+863,20220615,7231,130,0,pink,New Zealand
+864,20220705,8981,130,3,dark,India
+865,20220412,7,466,2,dark purple,New Zealand
+866,20220818,1372,105,2,dark purple,Australia
+867,20220112,5250,293,0,pink,United Kingdom
+868,20220811,7560,15,3,dark,Canada
+869,20220113,5012,384,0,pink,Australia
+870,20220429,3038,135,2,dark purple,United Kingdom
+871,20220707,1099,92,2,dark purple,New Zealand
+872,20220311,7413,4,3,dark,New Zealand
+873,20220216,5397,239,0,pink,United Kingdom
+874,20220107,2303,33,2,dark purple,Australia
+875,20220112,1141,466,2,dark purple,New Zealand
+876,20220609,10325,147,3,dark,India
+877,20220516,2149,84,2,dark purple,India
+878,20220623,12362,94,1,dark pink,United Kingdom
+879,20220128,12635,194,1,dark pink,United Kingdom
+880,20220714,2443,216,2,dark purple,United Kingdom
+881,20220418,6237,247,0,pink,Canada
+882,20220614,1736,79,2,dark purple,United States of America
+883,20220415,7315,237,3,dark,United Kingdom
+884,20220519,4935,63,0,pink,Canada
+885,20220413,1393,172,2,dark purple,India
+886,20220815,3381,408,2,dark purple,Canada
+887,20220822,2933,233,2,dark purple,India
+888,20220422,3836,59,0,pink,New Zealand
+889,20220803,8022,123,3,dark,United Kingdom
+890,20220104,371,229,2,dark purple,New Zealand
+891,20220113,16482,198,1,dark pink,Canada
+892,20220511,13258,32,1,dark pink,Australia
+893,20220216,2058,236,2,dark purple,New Zealand
+894,20220520,10192,67,3,dark,United Kingdom
+895,20220203,7140,438,0,pink,United Kingdom
+896,20220506,9835,167,3,dark,India
+897,20220630,5775,135,0,pink,United Kingdom
+898,20220322,749,148,2,dark purple,United Kingdom
+899,20220217,7770,54,3,dark,Canada
+900,20220707,5502,64,0,pink,United Kingdom
+901,20220316,6223,181,0,pink,United Kingdom
+902,20220812,3507,114,2,dark purple,United Kingdom
+903,20220121,5600,181,0,pink,New Zealand
+904,20220506,721,151,2,dark purple,Australia
+905,20220624,6615,137,0,pink,Canada
+906,20220505,7420,163,3,dark,United States of America
+907,20220325,3164,84,2,dark purple,New Zealand
+908,20220214,9114,140,3,dark,Australia
+909,20220512,5404,187,0,pink,New Zealand
+910,20220125,3990,169,0,pink,New Zealand
+911,20220628,14924,12,1,dark pink,United Kingdom
+912,20220713,7091,194,0,pink,Australia
+913,20220516,2807,252,2,dark purple,United States of America
+914,20220314,6496,168,0,pink,India
+915,20220815,3738,261,0,pink,United States of America
+916,20220216,1190,256,2,dark purple,India
+917,20220615,8379,43,3,dark,United Kingdom
+918,20220527,9268,100,3,dark,Australia
+919,20220614,1029,98,2,dark purple,United States of America
+920,20220225,3549,76,2,dark purple,India
+921,20220804,12026,262,1,dark pink,India
+922,20220628,2303,244,2,dark purple,India
+923,20220405,13405,12,1,dark pink,Canada
+924,20220705,14763,113,1,dark pink,Canada
+925,20220120,12894,48,1,dark pink,New Zealand
+926,20220216,8302,131,3,dark,New Zealand
+927,20220712,455,174,2,dark purple,United Kingdom
+928,20220616,8183,254,3,dark,India
+929,20220413,1645,284,2,dark purple,Australia
+930,20220221,3143,67,2,dark purple,United Kingdom
+931,20220511,5873,249,0,pink,Canada
+932,20220415,11298,313,3,dark,India
+933,20220607,12425,167,1,dark pink,Canada
+934,20220627,1715,286,2,dark purple,United Kingdom
+935,20220729,8190,109,3,dark,India
+936,20220602,4991,166,0,pink,Canada
+937,20220126,15491,85,1,dark pink,India
+938,20220302,5096,142,0,pink,Canada
+939,20220110,7063,104,0,pink,Australia
+940,20220627,2275,115,2,dark purple,United States of America
+941,20220630,7602,18,3,dark,Canada
+942,20220708,4200,80,0,pink,Australia
+943,20220608,11137,88,3,dark,India
+944,20220818,3388,212,2,dark purple,United Kingdom
+945,20220408,6832,306,0,pink,Australia
+946,20220808,3437,181,2,dark purple,Canada
+947,20220826,301,65,2,dark purple,United Kingdom
+948,20220114,1869,158,2,dark purple,Canada
+949,20220811,16482,271,1,dark pink,United States of America
+950,20220531,10143,24,3,dark,United States of America
+951,20220711,3626,10,2,dark purple,New Zealand
+952,20220302,3346,304,2,dark purple,Canada
+953,20220713,6321,88,0,pink,Australia
+954,20220803,9345,133,3,dark,United Kingdom
+955,20220301,15008,165,1,dark pink,United Kingdom
+956,20220413,7609,150,3,dark,New Zealand
+957,20220214,10332,180,3,dark,Canada
+958,20220726,819,213,2,dark purple,India
+959,20220127,5754,133,0,pink,United Kingdom
+960,20220414,28,446,2,dark purple,India
+961,20220519,6440,141,0,pink,United States of America
+962,20220209,4956,58,0,pink,India
+963,20220525,2352,58,2,dark purple,United Kingdom
+964,20220126,3906,76,0,pink,Australia
+965,20220704,1813,296,2,dark purple,India
+966,20220413,11788,73,1,dark pink,India
+967,20220125,5768,119,0,pink,Australia
+968,20220425,2401,78,2,dark purple,United States of America
+969,20220610,4515,392,0,pink,United States of America
+970,20220822,10794,51,3,dark,New Zealand
+971,20220627,13706,207,1,dark pink,India
+972,20220630,4361,40,0,pink,India
+973,20220830,10122,100,3,dark,India
+974,20220823,994,57,2,dark purple,Australia
+975,20220826,2268,42,2,dark purple,New Zealand
+976,20220309,574,156,2,dark purple,Australia
+977,20220420,1792,23,2,dark purple,United Kingdom
+978,20220610,4844,466,0,pink,Canada
+979,20220208,938,158,2,dark purple,Australia
+980,20220825,4879,22,0,pink,Australia
+981,20220216,9107,73,3,dark,India
+982,20220530,12187,27,1,dark pink,United Kingdom
+983,20220629,5670,64,0,pink,New Zealand
+984,20220616,476,133,2,dark purple,United States of America
+985,20220304,2681,149,2,dark purple,United Kingdom
+986,20220315,1533,434,2,dark purple,New Zealand
+987,20220127,9765,85,3,dark,New Zealand
+988,20220705,994,118,2,dark purple,Canada
+989,20220329,3318,299,2,dark purple,United States of America
+990,20220512,4214,35,0,pink,Canada
+991,20220311,7714,44,3,dark,United States of America
+992,20220711,4690,299,0,pink,New Zealand
+993,20220801,13062,62,1,dark pink,New Zealand
+994,20220216,12488,200,1,dark pink,United Kingdom
+995,20220413,14147,235,1,dark pink,United States of America
+996,20220214,49,363,2,dark purple,India
+997,20220314,10199,68,3,dark,Australia
+998,20220426,11389,26,3,dark,Australia
+999,20220405,3584,200,2,dark purple,Canada
+1000,20220303,12481,264,1,dark pink,Canada
+1001,20220613,2107,175,2,dark purple,United States of America
+1002,20220214,8603,352,3,dark,New Zealand
+1003,20220418,7483,183,3,dark,New Zealand
+1004,20220201,3381,417,2,dark purple,New Zealand
+1005,20220804,2030,146,2,dark purple,New Zealand
+1006,20220405,6559,158,0,pink,New Zealand
+1007,20220126,10822,168,3,dark,Australia
+1008,20220121,16482,176,1,dark pink,United Kingdom
+1009,20220822,5845,172,0,pink,Canada
+1010,20220127,2317,224,2,dark purple,United Kingdom
+1011,20220216,10150,68,3,dark,United Kingdom
+1012,20220103,3437,46,2,dark purple,United States of America
+1013,20220824,4592,2,0,pink,United States of America
+1014,20220207,5691,417,0,pink,United States of America
+1015,20220211,4158,109,0,pink,Australia
+1016,20220329,5684,81,0,pink,Canada
+1017,20220615,693,350,2,dark purple,United States of America
+1018,20220426,546,142,2,dark purple,United Kingdom
+1019,20220715,4263,264,0,pink,Australia
+1020,20220623,1036,20,2,dark purple,India
+1021,20220111,13846,421,1,dark pink,Australia
+1022,20220209,2499,271,2,dark purple,United Kingdom
+1023,20220606,10689,204,3,dark,United Kingdom
+1024,20220810,5768,235,0,pink,United Kingdom
+1025,20220104,2226,46,2,dark purple,Australia
+1026,20220408,10262,15,3,dark,Canada
+1027,20220302,3864,430,0,pink,United Kingdom
+1028,20220615,4900,466,0,pink,Canada
+1029,20220214,5250,47,0,pink,Australia
+1030,20220705,3507,380,2,dark purple,United Kingdom
+1031,20220112,7413,465,3,dark,India
+1032,20220303,8155,96,3,dark,India
+1033,20220518,2478,188,2,dark purple,New Zealand
+1034,20220728,2471,202,2,dark purple,India
+1035,20220207,1666,106,2,dark purple,United Kingdom
+1036,20220530,301,421,2,dark purple,India
+1037,20220425,8400,27,3,dark,Australia
+1038,20220216,6139,45,0,pink,Canada
+1039,20220504,1288,60,2,dark purple,Australia
+1040,20220602,7077,77,0,pink,Canada
+1041,20220711,2317,464,2,dark purple,United States of America
+1042,20220607,63,60,2,dark purple,New Zealand
+1043,20220706,9744,157,3,dark,United Kingdom
+1044,20220615,9954,154,3,dark,India
+1045,20220414,1260,239,2,dark purple,India
+1046,20220808,469,163,2,dark purple,India
+1047,20220329,973,28,2,dark purple,United Kingdom
+1048,20220704,3647,76,2,dark purple,Australia
+1049,20220216,455,96,2,dark purple,India
+1050,20220502,2520,156,2,dark purple,Canada
+1051,20220721,10500,106,3,dark,India
+1052,20220818,7952,235,3,dark,Australia
+1053,20220622,483,259,2,dark purple,United States of America
+1054,20220719,4872,126,0,pink,United Kingdom
+1055,20220812,7756,85,3,dark,United Kingdom
+1056,20220607,5446,132,0,pink,United States of America
+1057,20220308,6594,91,0,pink,Canada
+1058,20220408,1470,167,2,dark purple,Australia
+1059,20220506,721,203,2,dark purple,Canada
+1060,20220531,4494,11,0,pink,India
+1061,20220113,2674,295,2,dark purple,Australia
+1062,20220315,658,77,2,dark purple,United States of America
+1063,20220216,1127,319,2,dark purple,Canada
+1064,20220114,7364,196,3,dark,United States of America
+1065,20220321,6818,102,0,pink,Australia
+1066,20220517,6776,312,0,pink,Canada
+1067,20220808,15099,55,1,dark pink,New Zealand
+1068,20220426,3612,82,2,dark purple,Canada
+1069,20220415,3710,260,0,pink,Australia
+1070,20220519,6111,466,0,pink,Canada
+1071,20220110,2702,24,2,dark purple,Canada
+1072,20220504,483,228,2,dark purple,New Zealand
+1073,20220405,5887,268,0,pink,Canada
+1074,20220117,952,68,2,dark purple,India
+1075,20220322,10647,173,3,dark,India
+1076,20220705,6055,93,0,pink,Australia
+1077,20220427,8757,338,3,dark,Canada
+1078,20220812,6055,73,0,pink,Canada
+1079,20220311,721,251,2,dark purple,United Kingdom
+1080,20220513,8589,229,3,dark,United Kingdom
+1081,20220512,11781,91,1,dark pink,United States of America
+1082,20220112,672,194,2,dark purple,United States of America
+1083,20220329,12558,403,1,dark pink,New Zealand
+1084,20220314,8337,12,3,dark,India
+1085,20220524,8134,195,3,dark,New Zealand
+1086,20220128,8491,75,3,dark,Canada
+1087,20220524,3066,96,2,dark purple,India
+1088,20220819,301,205,2,dark purple,Australia
+1089,20220517,4410,323,0,pink,Australia
+1090,20220607,6559,119,0,pink,United States of America
+1091,20220726,574,217,2,dark purple,Canada
+1092,20220728,2086,384,2,dark purple,India
+1093,20220523,5075,344,0,pink,India

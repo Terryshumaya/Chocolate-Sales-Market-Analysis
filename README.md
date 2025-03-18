@@ -19,6 +19,7 @@ A comprehensive dataset that contains detailed records of chocolate sales, inclu
  - Date
  - Amount
  - Boxes shipped
++ [Dataset link]( https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales)
  
 ## Tools used for the Analysis
  - Jupyter Notebook: It provides an interactive, flexible, and user-friendly environment for coding, documentation and visualization
